@@ -9,7 +9,7 @@ This project analyzes EmporiUm's South Region (Florida, South Carolina, and Texa
 ## Bonus Features
 - State drill-through page
 - Mobile report layout
-- Treemap showing Average Revenue Per Book by Author
+- Chart showing Average Revenue Per Book by Author
 
 ## Key Findings
 - Florida generated the highest revenue in the South Region.
