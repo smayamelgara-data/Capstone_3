@@ -18,3 +18,8 @@ This project analyzes EmporiUm's South Region (Florida, South Carolina, and Texa
 
 ## Project Outcome
 This Power BI report transforms raw sales and book data into an interactive dashboard that helps management quickly understand regional performance, identify top-performing products and authors, and make more informed business decisions.
+
+## 10 Minute PBIX Overview 
+[video1981136072.zip](https://github.com/user-attachments/files/29381008/video1981136072.zip)
+
+
